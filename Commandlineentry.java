@@ -1,4 +1,4 @@
-class B{
+class Commandlineentry{
 	public static void main(String[] args){
 		System.out.println("name: " + args[0]);
 		System.out.println("course" + args[1]);
