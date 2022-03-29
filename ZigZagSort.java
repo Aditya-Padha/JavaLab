@@ -50,6 +50,7 @@ public class ZigZagSort
 		    }
 		    
 		    flag = !flag;
+		
 		}
 		System.out.println(Arrays.toString(arr));
 	}
