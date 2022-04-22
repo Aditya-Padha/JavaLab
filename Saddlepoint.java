@@ -8,7 +8,7 @@ Mat[3][3]
 1 2 3
 4 5 6
 7 8 9
-here, 7 is the saddle point because it is the minimum in its row and column
+here, 7 is the saddle point because it is the minimum in its row and maximum in its column
 
 *******************************************************************************/
 import java.util.Scanner;
