@@ -1,6 +1,23 @@
 /******************************************************************************
+Wap to create class called array demo and overload arrayfunc() function.
+void arrayfunc(int[], int) to find all pairs of elements in an array whose sum is equal to a given number.
 
+array numbers = {4,6,5,-10,8,5,20}, target = 10
+output:
+pair of elements are:
+4 + 6 = 10
+5 + 5 = 10
 
+void arrayfunc(int[] a,int p, int[] b,int q) 
+merge the two sorted arrays a and b by maintaining the sorted order
+fill a with the small elements first(p) and then b with(q)
+
+eg.
+a = 1,5,6,7,8,10
+b = 2,4,9
+sorted arrays are:
+a = 1,2,4,5,6,7
+b = 8,9,10
 *******************************************************************************/
 
 import java.util.Arrays;
